@@ -1156,7 +1156,7 @@ textarea {
 }
 
 a {
-    color: #626D37;
+    color: #1427FF;
     text-decoration: none
 }
 
@@ -9889,7 +9889,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
     }
     
     .navbar-inverse {
-        background-color: #626D37;
+        background-color: #1427FF;
         border-color: #006687
     }
     
@@ -12736,8 +12736,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 
 .navbar-inverse {
-    background-color: #626D37;
-    border-color: #626D37;
+    background-color: #1427FF;
+    border-color: #1427FF;
 }
 
 .navbar-inverse .navbar-brand {
